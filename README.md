@@ -1,0 +1,1 @@
+go to release tab for download IPA file.
